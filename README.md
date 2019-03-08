@@ -3,4 +3,4 @@
 ### 1. Preventing google-analytics slow down oversea websites
 ### 2. Disable pornography
 ### 3. Remove redundancy
-### 4. Commission optimization
+### 4. Specialized optimization

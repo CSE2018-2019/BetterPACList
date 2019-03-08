@@ -1,2 +1,2 @@
 # BetterPACList
-This PAC list which fixed several gigentic problems in the gfωList.
+This PAC list which fixed several gigantic problems in the gfωList.
